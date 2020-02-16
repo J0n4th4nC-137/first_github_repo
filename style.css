@@ -1,0 +1,26 @@
+body{
+background-image: url(../binary-code-475664_1280.jpg);
+}
+h1{
+    color: red;
+    text-align: center;
+    flex: auto;
+    font-family: fantasy;
+    font-style: italic;
+
+}
+p{color: brown;
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: center;
+    margin: 12px;
+}
+
+img{
+    image-resolution: 10%;
+    text-align: center;
+    position: relative;
+    content: normal;
+    float: left;
+    flex: auto;
+}
